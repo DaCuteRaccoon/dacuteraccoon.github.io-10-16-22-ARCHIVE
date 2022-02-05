@@ -9,3 +9,5 @@ function Get(url){
 }
 
 var DaCuteRaccoon = JSON.parse(Get('https://api.github.com/users/DaCuteRaccoon'));
+
+var URLData = new URL(window.location.href)
