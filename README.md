@@ -4,6 +4,11 @@
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/DaCuteRaccoon/dacuteraccoon.github.io/CodeQL)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/DaCuteRaccoon/dacuteraccoon.github.io/njsscan%20sarif)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/DaCuteRaccoon/dacuteraccoon.github.io/OSSAR)
+<br>
+![GitHub language count](https://img.shields.io/github/languages/count/DaCuteRaccoon/dacuteraccoon.github.io)
+![GitHub top language](https://img.shields.io/github/languages/top/DaCuteRaccoon/dacuteraccoon.github.io)
+<br>
+![GitHub search hit counter](https://img.shields.io/github/search/DaCuteRaccoon/dacuteraccoon.github.io/DaCuteRaccoon)
 
 
 [Project for this repo](https://github.com/users/DaCuteRaccoon/projects/4)
