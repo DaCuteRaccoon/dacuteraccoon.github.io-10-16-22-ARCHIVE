@@ -4,6 +4,8 @@
 
 ![GitHub branch checks state](https://img.shields.io/github/checks-status/DaCuteRaccoon/dacuteraccoon.github.io/main)
 <br>
+![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/DaCuteRaccoon/dacuteraccoon.github.io)
+<br>
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/DaCuteRaccoon/dacuteraccoon.github.io/CodeQL)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/DaCuteRaccoon/dacuteraccoon.github.io/njsscan%20sarif)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/DaCuteRaccoon/dacuteraccoon.github.io/OSSAR)
