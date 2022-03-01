@@ -1,4 +1,7 @@
 # DaCuteRaccoon
+
+[![Join the chat at https://gitter.im/DaCuteRaccoon/dacuteraccoon.github.io](https://badges.gitter.im/DaCuteRaccoon/dacuteraccoon.github.io.svg)](https://gitter.im/DaCuteRaccoon/dacuteraccoon.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![GitHub branch checks state](https://img.shields.io/github/checks-status/DaCuteRaccoon/dacuteraccoon.github.io/main)
 <br>
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/DaCuteRaccoon/dacuteraccoon.github.io/CodeQL)
