@@ -13,11 +13,9 @@
 <br>
 ![GitHub search hit counter](https://img.shields.io/github/search/DaCuteRaccoon/dacuteraccoon.github.io/DaCuteRaccoon)
 
-
 [Project for this repo](https://github.com/users/DaCuteRaccoon/projects/4)
 <br>
 [Testspace](https://dacuteraccoon.testspace.com/)
-
 
 <!-- Notes for me
 This website is a good example template: https://api.msn.com/
