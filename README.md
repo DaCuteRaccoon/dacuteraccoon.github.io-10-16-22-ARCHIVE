@@ -15,6 +15,7 @@
 <br>
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/DaCuteRaccoon/dacuteraccoon.github.io)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DaCuteRaccoon/dacuteraccoon.github.io)
+![GitHub all releases](https://img.shields.io/github/downloads/DaCuteRaccoon/dacuteraccoon.github.io/total)
 <br>
 ![GitHub search hit counter](https://img.shields.io/github/search/DaCuteRaccoon/dacuteraccoon.github.io/DaCuteRaccoon)
 
