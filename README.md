@@ -27,9 +27,6 @@
 
 ### Matrix Chats:
 ![Matrix](https://img.shields.io/matrix/Raccoon:matrix.org)
-
-
-
 <br>
 [Cinny](https://app.cinny.in/)
 
