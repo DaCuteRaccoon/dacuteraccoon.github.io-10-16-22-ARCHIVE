@@ -31,7 +31,9 @@ Join my Slack [here](https://join.slack.com/t/newworkspace-qpi6422/shared_invite
 <br>
 [Cinny](https://app.cinny.in/)
 
+### Other Stuff
 
+<a href="https://stackexchange.com/users/23131415/dacuteraccoon"><img src="https://stackexchange.com/users/flair/23131415.png" width="208" height="58" alt="profile for DaCuteRaccoon on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for DaCuteRaccoon on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 <!-- Notes for me
 This website is a good example template: https://api.msn.com/
