@@ -27,7 +27,9 @@
 Join my Slack [here](https://join.slack.com/t/newworkspace-qpi6422/shared_invite/zt-14pm2ao47-dDo_QrmgLaPii4baeL_ngg)!
 
 ### Matrix Chats:
-[![Matrix](https://img.shields.io/matrix/Raccoon:matrix.org)](https://app.cinny.in/)
+[![Matrix](https://img.shields.io/matrix/Raccoon:matrix.org)](https://app.cinny.in/) Cinny
+<br />
+[![Matrix](https://img.shields.io/matrix/Raccoon:matrix.org)](https://fluffychat.im/) FluffyChat
 
 ### Other Stuff
 
